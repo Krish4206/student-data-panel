@@ -1,0 +1,98 @@
+// data.js
+import "bootstrap/dist/css/bootstrap.min.css";
+const studentsData = [
+    {
+        id: 1,
+        date: "2022-01-01",
+        branch: "Main Branch",
+        amount: 5000,
+        bank: "ABC Bank",
+        name: "John Doe",
+        status: "Approved",
+      },
+      {
+        id: 2,
+        date: "2022-01-02",
+        branch: "Downtown Branch",
+        amount: 7000,
+        bank: "XYZ Bank",
+        name: "Jane Smith",
+        status: "Pending",
+      },
+      {
+        id: 3,
+        date: "2022-01-03",
+        branch: "Uptown Branch",
+        amount: 3000,
+        bank: "DEF Bank",
+        name: "Bob Johnson",
+        status: "Rejected",
+      },
+      {
+        id: 4,
+        date: "2022-01-04",
+        branch: "Suburb Branch",
+        amount: 8000,
+        bank: "GHI Bank",
+        name: "Alice Brown",
+        status: "Approved",
+      },
+      {
+        id: 5,
+        date: "2022-01-05",
+        branch: "Main Branch",
+        amount: 4500,
+        bank: "JKL Bank",
+        name: "Charlie Davis",
+        status: "Pending",
+      },
+      {
+        id: 6,
+        date: "2022-01-06",
+        branch: "Downtown Branch",
+        amount: 6000,
+        bank: "MNO Bank",
+        name: "Eva White",
+        status: "Approved",
+      },
+      {
+        id: 7,
+        date: "2022-01-07",
+        branch: "Uptown Branch",
+        amount: 3500,
+        bank: "PQR Bank",
+        name: "Sam Wilson",
+        status: "Pending",
+      },
+      {
+        id: 8,
+        date: "2022-01-08",
+        branch: "Suburb Branch",
+        amount: 9000,
+        bank: "STU Bank",
+        name: "Linda Green",
+        status: "Rejected",
+      },
+      {
+        id: 9,
+        date: "2022-01-09",
+        branch: "Main Branch",
+        amount: 4000,
+        bank: "VWX Bank",
+        name: "Mike Anderson",
+        status: "Approved",
+      },
+      {
+        id: 10,
+        date: "2022-01-10",
+        branch: "Downtown Branch",
+        amount: 7500,
+        bank: "YZA Bank",
+        name: "Sophia Lee",
+        status: "Pending",
+      },
+    
+  ];
+  
+  export default studentsData;
+  
